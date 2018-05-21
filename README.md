@@ -1,5 +1,5 @@
 # Hydrographic-Charting-Toolbox
-### A collection of tools to process bathymetric raster data into areas safe for vessels of different draughts and create centre lines in these areas to create shipping lanes. Features of interest in the area can also be identified.
+#### A collection of tools to process bathymetric raster data into areas safe for vessels of different draughts and create centre lines in these areas to create shipping lanes. Features of interest in the area can also be identified.
 
 ## How to add the toolbox
 In ArcMap, simply add the 'Hydrographic Charting Toolbox' Toolbox to the ArcToolbox window.
