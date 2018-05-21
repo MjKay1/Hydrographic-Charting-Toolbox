@@ -1,11 +1,11 @@
 # Hydrographic-Charting-Toolbox
-###A collection of tools to process bathymetric raster data into areas safe for vessels of different draughts and create centre lines in these areas to create shipping lanes
+### A collection of tools to process bathymetric raster data into areas safe for vessels of different draughts and create centre lines in these areas to create shipping lanes. Features of interest in the area can also be identified.
 
-##How to add the toolbox
+## How to add the toolbox
 In ArcMap, simply add the 'Hydrographic Charting Toolbox' Toolbox to the ArcToolbox window.
 
-##Using the Sample Data 
-set the Workspace and Scratch Wworkspace in Enviroments
+## Using the Sample Data 
+set the Workspace and Scratch Workspace in Environments
 Add the Bathymetry and Bathymetry_Clip using the Add Data icon.
 Navigate to the Create Shipping Lanes script in the ArcToolbox window and open it.
 Add the Bathymetry (or Bathymetry_Clip, as the file is much smaller, and reduces the run time significantly) as the input bathymetry.
